@@ -1,0 +1,1508 @@
+@media only screen and (min-width: 1430px) {
+    .container {
+        max-width: 1290px;
+    }
+}
+
+@media only screen and (min-width: 1600px) {
+    .container {
+        max-width: 1440px;
+    }
+}
+
+@media only screen and (min-width: 1800px) {
+    .container {
+        max-width: 1630px;
+    }
+}
+
+@media only screen and (max-width: 1799px) {
+    .mainimg {
+        margin-top: 64px;
+    }
+    img.mainmagic {
+        height: 559px;
+        width: 446px;
+    }
+    .ourmafigmain:after {
+        width: 443px;
+        height: 555px;
+    }
+    .insight:after {
+        width: 443px;
+        height: 555px;
+    }
+    section.magic .container {
+        max-width: 1470px;
+        padding: 182px 101px;
+    }
+    section.magic:after {
+        bottom: -476px;
+    }
+    div#ceoofugly .owl-nav.disabled {
+        top: auto;
+        width: 13%;
+        top: -130px;
+        right: 31px;
+    }
+    div#ceoofugly .owl-prev {
+        margin: 0 !important;
+    }
+    div#ceoofugly .owl-next {
+        margin: 0;
+    }
+    a#myBtn {
+        bottom: 100px;
+    }
+    section.features {
+        padding: 580px 0 100px;
+    }
+    #clientdata .item {
+        margin-top: 80px;
+    }
+    section.features section {
+        padding-top: 100px;
+    }
+}
+
+@media only screen and (max-width: 1599px) {
+    .commerce {
+        padding-left: 22px;
+    }
+    .mainimg {
+        text-align: center;
+    }
+    nav.navbar.navbar-expand-lg {
+        padding-right: 80px !important;
+        padding-left: 80px !important;
+    }
+    section.magic .container {
+        max-width: 1330px;
+        padding: 122px 80px 182px;
+    }
+    section.magic .combine {
+        margin-top: 200px;
+    }
+    section.features {
+        padding-top: 560px;
+        padding-bottom: 70px;
+    }
+    .advisorimg {
+        width: 404px;
+    }
+    section.features ul.top {
+        justify-content: space-evenly;
+    }
+    section.features section {
+        padding-top: 100px;
+    }
+    #clientdata .item {
+        margin-top: 70px;
+    }
+    section.howwork div#work .item {
+        justify-content: space-around;
+    }
+    .testimonials {
+        margin-bottom: 80px;
+    }
+    section.getintouch {
+        padding: 120px 20px;
+    }
+    footer {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    section.getintouch .prepare {
+        height: 600px;
+    }
+    .fullname textarea#message {
+        margin-bottom: 24px;
+    }
+    .janel {
+        margin-top: 80px;
+    }
+    a#myBtn {
+        bottom: 90px;
+    }
+    .commerce {
+        padding-left: 30px;
+    }
+    .mainimg {
+        text-align: end;
+        padding-right: 61px;
+    }
+    section.creativity .mainimg:before {
+        left: 250px;
+    }
+    .mainimg span.arrow {
+        left: 230px;
+        top: -10px;
+    }
+    .mainimg span.premium {
+        left: 90px;
+    }
+    .mainimg span.radius {
+        right: 80px;
+    }
+    .mainimg:after {
+        left: 329px;
+    }
+}
+
+@media only screen and (max-width: 1429px) {
+    .commerce h1 span.meets {
+        font-size: 64px;
+    }
+    .commerce h1 {
+        font-size: 64px;
+    }
+    section.creativity .mainimg:before {
+        left: 130px;
+    }
+    .mainimg span.arrow {
+        left: 120px;
+    }
+    .mainimg img.main {
+        height: 541px;
+        width: 360px;
+    }
+    .mainimg span.premium {
+        left: -20px;
+    }
+    section.magic .container {
+        max-width: 1080px;
+        padding: 120px 60px;
+    }
+    .sauce h2 {
+        font-size: 34px;
+        margin-bottom: 20px;
+        line-height: 52px;
+    }
+    .sauce p {
+        margin-bottom: 30px;
+    }
+    img.mainmagic {
+        height: 521px;
+        width: 375px;
+    }
+    .ourmafigmain:after {
+        width: 369px;
+        height: 521px;
+        border-radius: 354px 344px 285px 0px;
+    }
+    span.arrow2 {
+        top: -30px;
+    }
+    span.radius2 {
+        bottom: -62px;
+        right: 82px;
+    }
+    .insight:after {
+        width: 373px;
+        height: 522px;
+        border-radius: 338px 339px 0 350px;
+    }
+    span.girl {
+        top: -41px;
+        right: -10px;
+    }
+    .advisorimg {
+        width: 354px;
+    }
+    section.howwork .howitswork {
+        padding-left: 15px;
+        max-width: 741px;
+    }
+    .ourtop h2 {
+        font-size: 44px;
+    }
+    .howitswork h2 {
+        font-size: 44px;
+    }
+    .testimonials h2 {
+        font-size: 44px;
+    }
+    .com h2 {
+        font-size: 44px;
+    }
+    .workformhome p {
+        max-width: 340px;
+    }
+    .workformhome {
+        padding: 55px 44px;
+    }
+    .ugly p {
+        max-width: 322px;
+    }
+    .ugly span {
+        margin-left: 83px;
+    }
+    div#ceoofugly .owl-item {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .janel {
+        margin-top: 70px;
+    }
+    section.getintouch span.touch:after {
+        top: 140px;
+        left: 130px;
+    }
+    section.getintouch .container:after {
+        left: 409px;
+    }
+    a#myBtn {
+        right: 30px;
+        bottom: 100px;
+    }
+    nav.navbar.navbar-expand-lg {
+        padding-left: 20px !important;
+        padding-right: 21px !important;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    div#ceoofugly .owl-nav {
+        display: flex;
+        position: absolute;
+        bottom: -100px;
+        justify-content: space-between !important;
+        width: 18%;
+        right: 46px;
+    }
+    div#ceoofugly .owl-nav button {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    }
+    div#ceoofugly .owl-nav button.owl-next {
+        background: #002540;
+        border-radius: 50%;
+    }
+    div#ceoofugly .owl-nav button.owl-next {
+        background: #002540 !important;
+        border-radius: 50% !important;
+    }
+    div#ceoofugly .owl-nav button.owl-prev {
+        background: rgba(0, 37, 64, 0.05);
+        border: 2px solid rgba(0, 37, 64, 0.1);
+        border-radius: 50%;
+    }
+    .commerce h1 {
+        font-size: 46px;
+        line-height: 49px;
+        margin-top: -20px;
+    }
+    .commerce h1 span.meets {
+        font-size: 51px;
+    }
+    .commerce h1 span.meets:after {
+        bottom: -13px;
+    }
+    .commerce {
+        padding-left: 0;
+    }
+    .commerce p {
+        max-width: 360px;
+    }
+    .mainimg {
+        padding-right: 30px;
+    }
+    section.creativity .mainimg:before {
+        left: 62px;
+    }
+    .mainimg img.main {
+        height: 516px;
+        width: 354px;
+    }
+    .mainimg span.premium {
+        left: -80px;
+    }
+    .mainimg span.radius {
+        right: 50px;
+    }
+    .mainimg span.arrow {
+        left: 41px;
+    }
+    section.magic .container {
+        max-width: 930px;
+        padding: 100px 39px;
+    }
+    .sauce h2 {
+        font-size: 29px;
+    }
+    p.idea {
+        font-size: 17px !important;
+        margin-bottom: 15px;
+    }
+    span.radius2 {
+        bottom: -61px;
+        right: 30px;
+    }
+    .sauce p {
+        font-size: 15px;
+        max-width: 390px;
+    }
+    .ourtop h2 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .ourtop p {
+        font-size: 21px;
+        max-width: 780px;
+        margin: auto;
+    }
+    .ourtop {
+        margin-bottom: 50px;
+    }
+    section.howwork {
+        padding-top: 100px;
+    }
+    .howitswork h2 {
+        font-size: 35px;
+        line-height: 60px;
+    }
+    section.features ul.top {
+        justify-content: space-evenly;
+    }
+    section.getintouch .prepare:before {
+        right: 111px;
+    }
+    section.getintouch .container:after {
+        left: 300px;
+        top: 57%;
+    }
+    .testimonials h2 {
+        font-size: 35px;
+    }
+    .com h2 {
+        font-size: 35px;
+    }
+    section.getintouch span.touch:after {
+        top: 138px;
+        left: 98px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .commerce h1 span.meets {
+        font-size: 46px;
+    }
+    .commerce h1 span.meets:after {
+        width: 120px;
+    }
+    div#ceoofugly .owl-nav {
+        bottom: -69px;
+        right: 4px;
+    }
+    .advisorimg {
+        width: 339px;
+    }
+    .entermail input#inputmail {
+        padding: 15px 47px;
+    }
+    .emulsion a {
+        display: flex;
+    }
+    .subscribe {
+        display: block;
+        padding: 10px 0 40px;
+    }
+    ul.foterpage {
+        justify-content: center;
+        padding: 35px 0;
+    }
+    ul.social {
+        text-align: center !important;
+        justify-content: center !important;
+    }
+    ul.social li a {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+    ul.social li:first-child {
+        padding: 0;
+    }
+    .submitemail {
+        padding-bottom: 47px;
+    }
+    section.developerluu {
+        padding-bottom: 0;
+        height: auto;
+    }
+    .submitfooter a {
+        padding: 15px 47px;
+    }
+    nav.navbar.navbar-expand-lg {
+        padding: 30px 0 !important;
+    }
+    section.magic .container {
+        max-width: 682px;
+        padding: 100px 49px;
+    }
+    span.radius2 {
+        left: 348px;
+        bottom: -46px;
+    }
+    .ourmafigmain {
+        margin-bottom: 55px;
+    }
+    section.magic .combine {
+        margin-top: 100px;
+    }
+    section.magic .combine .col-lg-6:last-child {
+        order: -1;
+    }
+    .sauce p {
+        max-width: 630px;
+    }
+    .sauce h2 {
+        max-width: 520px;
+    }
+    span.satisfy {
+        font-size: 26px;
+    }
+    section.magic:after {
+        left: 300px;
+    }
+    section.features section {
+        padding-top: 30px;
+    }
+    .ourtop h2 {
+        margin-bottom: 45px;
+    }
+    .ourtop p {
+        font-size: 19px;
+        max-width: 700px;
+    }
+    .ourtop {
+        margin-bottom: 60px;
+    }
+    .howitswork h2 {
+        font-size: 30px;
+    }
+    section.howwork .howitswork {
+        max-width: 551px;
+    }
+    section.howwork #work .item {
+        margin-top: 70px;
+    }
+    .workformhome {
+        padding: 35px 40px;
+    }
+    .workformhome img {
+        height: 180px;
+        margin-bottom: 10px;
+    }
+    .workformhome h3 {
+        font-size: 25px;
+    }
+    .testimonials {
+        margin-bottom: 47px;
+    }
+    .testimonials h2 {
+        line-height: 40px;
+    }
+    section.creativity {
+        height: auto;
+    }
+    section.creativity .col-lg-6:last-child {
+        order: -1;
+    }
+    .mainimg {
+        text-align: center;
+    }
+    span.radius {
+        right: 31px;
+    }
+    .mainimg span.radius {
+        right: 220px;
+        bottom: -10px;
+    }
+    .mainimg:after {
+        left: 252px;
+    }
+    section.creativity .mainimg:before {
+        left: 152px;
+    }
+    .mainimg span.arrow {
+        left: 132px;
+    }
+    .mainimg span.premium {
+        left: 10px;
+    }
+    .commerce {
+        margin-top: 60px;
+    }
+    .commerce p {
+        max-width: 551px;
+    }
+    .commerce h1 span.meets:after {
+        background-size: contain;
+    }
+    section.getintouch {
+        padding: 70px 10px;
+    }
+    .com {
+        text-align: center;
+    }
+    ul.emailcall {
+        display: flex;
+        justify-content: center;
+    }
+    .wonna {
+        display: flex;
+        justify-content: center !important;
+        margin-top: 30px;
+    }
+    ul.emailcall {
+        justify-content: space-evenly;
+    }
+    section.getintouch span.touch:after {
+        top: 39px;
+        left: 354px;
+    }
+    section.getintouch .prepare:before {
+        left: -37px;
+        top: -28px;
+    }
+    section.getintouch .container:after {
+        /* Arrow_11 */
+        left: -13px;
+        transform: matrix(0.2, -1.24, -1.44, -0.2, 0.8, 0.1);
+        top: 527px;
+    }
+    /**********  Responsive Menu Bootstrap **********/
+    /**  menu  **/
+    .toggler {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        padding: 0;
+        border-radius: 5px;
+        background-color: #fff;
+        border: 1px solid #7bc00b;
+        text-align: center;
+        z-index: 99;
+        display: block;
+        transition: all 0.5s;
+        margin-left: 20px;
+    }
+    .show-menu .toggler {
+        width: 40px;
+        height: 40px;
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        border: none;
+    }
+    .toggler span {
+        position: relative;
+        width: 60%;
+        height: 2px;
+        background-color: #7bc00b;
+        display: inline-block;
+        vertical-align: top;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+    .toggler span::before,
+    .toggler span::after {
+        position: absolute;
+        content: "";
+        width: 100%;
+        height: 2px;
+        background-color: #7bc00b;
+        right: 0;
+        transition: all 0.5s;
+        animation: openCloseByeSpan 300ms linear forwards;
+    }
+    .toggler span::before {
+        top: -6px;
+    }
+    .toggler span::after {
+        top: 6px;
+    }
+    .show-menu .toggler span::before,
+    .show-menu .toggler span::after {
+        left: 0;
+        right: 0;
+        margin: auto;
+        transform: rotate(45deg);
+        top: -5px;
+    }
+    .show-menu .toggler span::after {
+        transform: rotate(-45deg);
+    }
+    .show-menu .toggler span {
+        height: 0;
+    }
+    #navbarNav {
+        background: #ffffff url(../images/banner-img.png) no-repeat bottom right / auto 170px;
+        /* box-shadow: 0 0px 0 10px #fff inset, 0 0 0 11px #7bc00b inset; */
+        padding: 60px 20px 15px;
+        position: fixed;
+        top: 0;
+        right: 0;
+        display: block !important;
+        width: 100% !important;
+        text-align: center;
+        bottom: 0;
+        -webkit-transition: all 0.5s ease 0s;
+        -moz-transition: all 0.5s ease 0s;
+        -ms-transition: all 0.5s ease 0s;
+        -o-transition: all 0.5s ease 0s;
+        transition: all 0.5s ease 0s;
+        -webkit-transform: translateX(110%);
+        -moz-transform: translateX(110%);
+        -ms-transform: translateX(110%);
+        -o-transform: translateX(110%);
+        transform: translateX(110%);
+        height: auto !important;
+        overflow: auto;
+    }
+    .show-menu #navbarNav {
+        -webkit-transform: translateX(0%);
+        -moz-transform: translateX(0%);
+        -ms-transform: translateX(0%);
+        -o-transform: translateX(0%);
+        transform: translateX(0%);
+    }
+    .show-menu .navbar-toggler {
+        position: fixed;
+        z-index: 5;
+        right: 15px;
+        border-radius: 5px;
+        padding: 2px;
+        top: 15px;
+    }
+    .show-menu .navbar-toggler-icon {
+        background-image: url("../images/close.svg");
+        background-size: 14px auto;
+    }
+    .navbar-nav .nav-item {
+        margin-left: 0;
+    }
+    .navbar .navbar-nav .nav-link {
+        font-size: 18px;
+        padding: 10px 10px;
+        margin: 0;
+        line-height: 1.2;
+    }
+    .navbar-nav .nav-link:hover {
+        color: #7bc00b;
+    }
+    .navbar-nav .active .nav-link {
+        color: #7bc00b;
+        font-weight: bold;
+    }
+    .navbar-nav .nav-item .dropdown-item {
+        text-align: center;
+        padding: 10px 10px;
+    }
+    .navbar-nav .dropdown-menu {
+        margin: 0;
+        padding: 0;
+        border-radius: 0;
+    }
+    /* Common Css must add */
+    .navbar-toggler svg {
+        height: 40px;
+        position: absolute;
+        width: 40px;
+        cursor: pointer;
+        /*   border: 1px solid black; */
+        /* background-color: #3cb4a5; */
+    }
+    .plate {
+        height: 40px;
+        width: 40px;
+    }
+    .burger {
+        filter: url(#gooeyness);
+    }
+    .x {
+        transform: scale(0);
+        transition: transform 400ms;
+    }
+    .line {
+        fill: none;
+        stroke: #ffffff;
+        stroke-width: 6px;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        transform-origin: 50%;
+        transition: stroke-dasharray 500ms 200ms, stroke-dashoffset 500ms 200ms, transform 500ms 200ms;
+    }
+    .x .line {
+        stroke-width: 5.5px;
+    }
+    /* Common Css must add end */
+    /* Forth Menu Css */
+    .plate4 .x {
+        transition: transform 400ms;
+    }
+    .plate4 .line {
+        transform-origin: 50%;
+        transition: transform 400ms 100ms;
+        stroke: #000000;
+    }
+    .active.plate4 .line {
+        transition: transform 400ms;
+    }
+    .active.plate4 .line1 {
+        transform: translateX(18px) translateY(-3px) rotate(-45deg) scale(0.7);
+    }
+    .active.plate4 .line2 {
+        transform: translateX(-18px) translateY(-3px) rotate(45deg) scale(0.7);
+    }
+    .active.plate4 .line3 {
+        transform: translateY(0px) rotate(45deg) scale(0.7);
+    }
+    .active.plate4 .line4 {
+        transform: translateY(0px) rotate(-45deg) scale(0.7);
+    }
+    .active.plate4 .line5 {
+        transform: translateX(18px) translateY(3px) rotate(45deg) scale(0.7);
+    }
+    .active.plate4 .line6 {
+        transform: translateX(-18px) translateY(3px) rotate(-45deg) scale(0.7);
+    }
+    .active.plate4 .x {
+        transition: transform 400ms 100ms;
+        transform: scale(1);
+    }
+    button.navbar-toggler {
+        padding: 0;
+        position: absolute;
+        top: 50%;
+        right: 30px;
+        transform: translateY(-50%);
+        width: 40px;
+        height: 40px;
+        z-index: 99999;
+    }
+    span.navbar-toggler-icon {
+        width: 40px;
+        height: 40px;
+    }
+    .navbar-toggler svg {
+        left: 0;
+        top: 0;
+    }
+    .show-menu .navbar-toggler {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        z-index: 9999;
+        right: 30px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    ul.navbar-nav.text-uppercase.ml-auto li.nav-item a.nav-link:hover {
+        color: black;
+    }
+    .herobutton1 {
+        margin: 21px auto;
+    }
+    /**  Menu  **/
+    /**********  Responsive Menu  **********/
+}
+
+@media only screen and (max-width: 767px) {
+    span.cursor {
+        display: none;
+    }
+    .insight {
+        margin-bottom: 30px;
+    }
+    div#ceoofugly .owl-nav {
+        width: 23%;
+        bottom: -76px;
+    }
+    ul.top {
+        display: block !important;
+    }
+    .advisorimg {
+        width: 80%;
+        justify-content: center !important;
+        margin: auto;
+        margin-bottom: 20px;
+        height: auto;
+        padding: 20px;
+    }
+    section.magic:after {
+        left: 231px;
+    }
+    #clientdata .item {
+        margin-top: 0;
+    }
+    section.features {
+        padding-bottom: 30px;
+        padding-top: 510px;
+    }
+    .advisorimg h3 {
+        font-size: 18px;
+        margin-bottom: 10px !important;
+    }
+    .advisorimg span {
+        margin-bottom: 15px;
+        width: 74px;
+        height: 74px;
+    }
+    .advisorimg span svg {
+        height: 48px !important;
+        width: 37px !important;
+    }
+    section.features ul.top {
+        justify-content: space-around;
+    }
+    .mainimg {
+        text-align: end;
+    }
+    section.creativity .mainimg:before {
+        left: 141px;
+    }
+    span.radius {
+        right: 0;
+    }
+    .mainimg span.radius {
+        right: 40px;
+    }
+    .mainimg span.premium {
+        left: -5px;
+    }
+    .commerce p {
+        margin-bottom: 30px;
+    }
+    .ourtop p {
+        font-size: 15px;
+        line-height: 41px;
+    }
+    .ourtop h2 {
+        margin-bottom: 20px;
+    }
+    section.howwork {
+        padding-top: 50px;
+    }
+    section.developerluu {
+        padding-top: 0;
+    }
+    section.getintouch span.touch:after {
+        left: 257px;
+    }
+    .emailingo {
+        display: flex;
+    }
+    ul.emailcall {
+        display: block !important;
+        justify-content: center !important;
+    }
+    .com {
+        margin-bottom: 50px;
+    }
+    section.getintouch .prepare {
+        width: 419px;
+    }
+    section.getintouch .container:after {
+        transform: matrix(-0.77, -0.6, -0.9, 0.87, 0, 0);
+        top: auto;
+        bottom: -70px;
+        left: -3px;
+    }
+    section.magic .container {
+        max-width: 520px;
+        padding: 100px 33px;
+    }
+    .howitswork h2 {
+        font-size: 26px;
+        line-height: 50px;
+    }
+    a#myBtn {
+        bottom: 60px;
+        right: 10px;
+    }
+    ul.foterpage {
+        padding-bottom: 11px;
+    }
+    section.magic .combine {
+        margin-top: 50px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    span.radius2 {
+        width: 40px;
+        left: 278px;
+        bottom: -39px;
+    }
+    .ugly span {
+        margin-left: 139px;
+    }
+    .insight {
+        margin-bottom: 30px;
+    }
+    div#ceoofugly .owl-nav {
+        width: 28%;
+    }
+    .mainimg img.main {
+        height: 490px;
+        width: 338px;
+    }
+    section.creativity .mainimg:before {
+        left: 60px;
+        width: 397px;
+        height: 389px;
+    }
+    .mainimg span.arrow {
+        top: -20px;
+        left: 61px;
+    }
+    .mainimg span.premium {
+        height: 130px;
+        left: -11px;
+        width: 130px;
+        bottom: -29px;
+    }
+    .mainimg:after {
+        left: 150px;
+    }
+    .commerce h1 {
+        font-size: 37px;
+        margin: -20px 0px 0px;
+    }
+    .commerce h1 span.meets {
+        font-size: 37px;
+    }
+    .commerce h1 span.meets:after {
+        width: 108px;
+        bottom: -18px;
+        left: 0;
+    }
+    section.creativity {
+        padding-bottom: 10px;
+    }
+    img.mainmagic {
+        width: 318px;
+        height: 440px;
+    }
+    section.magic .container {
+        max-width: 432px;
+        padding: 90px 24px;
+    }
+    .ourmafigmain:after {
+        width: 315px;
+        height: 440px;
+        border-radius: 354px 341px 315px 0px;
+    }
+    .insight:after {
+        width: 318px;
+        height: 431px;
+    }
+    .sauce h2 {
+        margin-bottom: 10px;
+        line-height: 38px;
+    }
+    span.arrow2 {
+        width: 40px;
+        height: 40px;
+        top: -17px;
+        left: 10px;
+    }
+    span.girl {
+        height: 45px;
+        width: 45px;
+        right: 1px;
+        top: -31px;
+    }
+    section.magic:after {
+        left: 161px;
+    }
+    .ourtop h2 {
+        font-size: 32px;
+    }
+    .advisorimg {
+        width: 80%;
+        margin: auto;
+        padding: 30px;
+        height: auto;
+        margin-bottom: 25px;
+    }
+    ul.top {
+        display: block !important;
+    }
+    .ourtop p {
+        font-size: 16px;
+    }
+    #clientdata .item .mieux {
+        width: 75%;
+        margin: auto;
+    }
+    section.getintouch .prepare {
+        width: 357px;
+        padding: 20px;
+        height: auto;
+    }
+    section.getintouch span.touch:after {
+        left: 210px;
+    }
+    .prepare h4 {
+        font-size: 25px;
+    }
+    .fullname textarea#message {
+        height: 150px;
+    }
+    section.getintouch .container:after {
+        background-size: contain;
+        left: -32px;
+    }
+    ul.foterpage li a {
+        padding: 0 22px;
+    }
+    ul.foterpage {
+        padding-bottom: 30px;
+    }
+    .submitemail {
+        padding: 38px 0px;
+    }
+    .entermail input#inputmail {
+        padding: 13px 17px;
+        display: flex;
+    }
+    .submitfooter a {
+        padding: 13px 36px;
+    }
+    .entermail input#inputmail::placeholder {
+        padding-left: 31px;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    .ourmafigmain:hover:after {
+        transform: translate(0);
+    }
+    .insight:hover:after {
+        transform: translate(0);
+    }
+    .emulsion a img {
+        width: 110px;
+        height: 21px;
+    }
+    footer {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    ul.foterpage li a {
+        padding: 0px 14px;
+    }
+    a#myBtn {
+        display: none !important;
+    }
+    .janel img {
+        width: 68px !important;
+        height: 68px;
+    }
+    .omnichennal .ugly svg {
+        width: 100px;
+        height: 59px;
+    }
+    .ugly span svg {
+        width: 70px !important;
+    }
+    #clientdata .item .mieux {
+        width: 59%;
+        margin-top: -12px;
+    }
+    section.features section {
+        padding: 20px 0;
+    }
+    section.magic:after {
+        width: 110px;
+        height: 110px;
+        left: 130px;
+    }
+    span.girl {
+        display: none;
+    }
+    span.radius2 {
+        display: none;
+    }
+    span.arrow2 {
+        display: none;
+    }
+    .commerce h1 span.meets:after {
+        display: none;
+    }
+    .advisorimg span svg {
+        width: 30px !important;
+    }
+    .advisorimg span {
+        width: 64px;
+        height: 64px;
+    }
+    .insight:after {
+        left: 60px;
+    }
+    .submit a {
+        margin-top: -15px;
+    }
+    section.getintouch {
+        border-radius: 0 0 25px 25px;
+    }
+    .prepare {
+        margin-bottom: -40px !important;
+    }
+    .herobutton1 {
+        width: 114px;
+        height: 43px;
+    }
+    .herobutton1 a {
+        width: 114px;
+        height: 43px;
+        font-size: 17px;
+    }
+    .herobutton1 a:after {
+        width: 114px;
+        height: 43px;
+    }
+    nav.navbar.navbar-expand-lg a.navbar-brand img {
+        width: 110px;
+        height: 17px;
+    }
+    .navbar-toggler svg {
+        width: 34px;
+        left: 28px;
+    }
+    nav.navbar.navbar-expand-lg {
+        padding: 10px !important;
+    }
+    .commerce h1 span.meets {
+        font-size: 30px;
+    }
+    .insight {
+        text-align: right;
+    }
+    .herobutton2 {
+        width: 114px;
+        height: 43px;
+    }
+    .herobutton2 a {
+        width: 114px;
+        height: 43px;
+        font-size: 16px;
+    }
+    .herobutton2 a:after {
+        width: 114px;
+        height: 43px;
+    }
+    .explore a {
+        padding: 13px 26px;
+    }
+    .submitfooter a {
+        padding: 8px 26px;
+    }
+    .entermail input#inputmail {
+        padding: 9px 20px;
+    }
+    div#ceoofugly .owl-nav button {
+        width: 41px;
+        height: 41px;
+    }
+    .fullname input.contactinfo {
+        padding: 24px 13px;
+    }
+    .fullname textarea#message {
+        padding: 24px 13px;
+    }
+    .entermail span {
+        bottom: 10px;
+    }
+    section.developerluu .omnichennal {
+        padding: 17px 11px;
+    }
+    .ugly span {
+        margin-left: 143px;
+    }
+    .insight {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    div#ceoofugly .owl-nav {
+        width: 94%;
+        text-align: center !important;
+        display: flex !important;
+        justify-content: space-evenly !important;
+        margin: auto;
+    }
+    .mainimg img.main {
+        height: 380px;
+        width: 260px;
+    }
+    section.creativity .mainimg:before {
+        left: 42px;
+        width: 297px;
+        background-size: contain;
+        top: -18px;
+    }
+    .mainimg span.radius {
+        right: 31px;
+        bottom: -21px;
+        display: none;
+    }
+    .mainimg span.premium {
+        width: 120px;
+        height: 120px;
+        bottom: -40px;
+        left: -18px;
+    }
+    .mainimg span.arrow {
+        display: none;
+    }
+    .commerce h1 {
+        font-size: 30px;
+        margin: -18px 0;
+    }
+    section.magic .container {
+        max-width: 359px;
+        padding: 45px 10px;
+        border-radius: 25px;
+    }
+    img.mainmagic {
+        height: 360px;
+        width: 260px;
+    }
+    .ourmafigmain:after {
+        height: 380px;
+        width: 260px;
+    }
+    .ourmafigmain:after {
+        width: 247px;
+        height: 350px;
+        border-radius: 404px 341px 375px 0px;
+        left: 72px;
+        top: 34px;
+    }
+    .insight:after {
+        width: 243px;
+        height: 345px;
+        /* right: 90px; */
+        border-radius: 290px 337px 0px 320px;
+        left: 18px;
+        top: auto;
+        bottom: -26px;
+    }
+    .sauce {
+        margin: 0;
+    }
+    .ourmafigmain {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .ourtop {
+        margin-bottom: 45px;
+    }
+    .advisorimg {
+        width: auto;
+        padding: 14px;
+    }
+    section.howwork div#work .item {
+        margin-top: 35px;
+    }
+    .howitswork h2 {
+        font-size: 24px;
+    }
+    section.getintouch span.touch:after {
+        left: 166px;
+        width: 150px;
+    }
+    section.getintouch .prepare {
+        margin-right: -29px;
+        width: 342px;
+        padding: 15px;
+        margin: auto;
+        border-radius: 25px;
+    }
+    section.getintouch .prepare:before {
+        left: -30px;
+    }
+    section.getintouch .container:after {
+        left: -30px;
+        width: 115px;
+        bottom: -78px;
+        transform: matrix(-0.88, -0.89, -0.99, 0.68, 0, 0);
+    }
+    section.getintouch {
+        padding-top: 45px;
+    }
+    .subscribe ul.foterpage {
+        flex-wrap: wrap;
+    }
+    .subscribe ul.foterpage li {
+        padding-bottom: 18px;
+    }
+    .submitemail {
+        padding: 28px 0;
+    }
+    section.getintouch .container:after {
+        display: none;
+    }
+    section.getintouch .prepare:before {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 349px) {
+    img.mainmagic {
+        width: 240px;
+        height: 320px;
+    }
+    .ourmafigmain:after {
+        width: 239px;
+        height: 313px;
+        left: 41px;
+    }
+    .testimonials h2 {
+        font-size: 30px;
+    }
+    .copyright p {
+        font-size: 14px;
+    }
+    section.features section {
+        padding-bottom: 10px;
+    }
+    .prepare h4 {
+        font-size: 23px;
+        margin-bottom: 20px;
+    }
+    .mainimg {
+        padding-right: 11px;
+    }
+    .mainimg img.main {
+        height: 340px;
+        width: 220px;
+    }
+    section.creativity .mainimg:before {
+        left: 48px;
+        width: 253px;
+        top: -14px;
+    }
+    .mainimg span.arrow {
+        left: 32px;
+    }
+    .mainimg span.radius {
+        right: 13px;
+    }
+    .commerce h1 {
+        font-size: 25px;
+        margin: -20px 0;
+    }
+    .commerce h1 span.meets {
+        font-size: 25px;
+    }
+    section.magic .container {
+        max-width: 300px;
+    }
+    span.arrow2 {
+        top: -35px;
+        left: 14px;
+    }
+    .insight {
+        margin-bottom: 41px;
+    }
+    .insight:after {
+        width: 243px;
+        left: 0;
+    }
+    .advisorimg {
+        width: auto;
+    }
+    .ourtop p {
+        text-align: center;
+        font-size: 14px;
+        line-height: 28px;
+    }
+    section.howwork {
+        padding-bottom: 20px;
+    }
+    .ugly span {
+        margin-left: 94px;
+    }
+    .janel {
+        margin-top: 40px;
+    }
+    .com h2 {
+        font-size: 30px;
+    }
+    section.getintouch span.touch:after {
+        left: 140px;
+        width: 140px;
+        top: 44px;
+        left: 147px;
+    }
+    .com {
+        margin-bottom: 40px;
+    }
+    .subscribe ul.foterpage li a {
+        padding: 0 7px;
+    }
+    section.getintouch {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    section.getintouch .wonna {
+        padding: 0;
+        margin: 0;
+    }
+    section.getintouch .prepare {
+        margin-right: 0;
+        width: 298px;
+        padding: 12px;
+        margin: auto;
+    }
+    .mailabox {
+        display: block;
+        justify-content: center !important;
+        text-align: center !important;
+    }
+    section.getintouch .prepare:before {
+        display: none;
+    }
+    section.getintouch .container:after {
+        bottom: -96px;
+        left: 37px;
+        transform: matrix(-1.05, 0.14, 0.54, 0.75, 0.2, 0.2);
+    }
+    .entermail input#inputmail {
+        margin: auto;
+    }
+    .entermail span {
+        left: 55px;
+        /* bottom: 12px; */
+    }
+    .entermail {
+        margin-bottom: 12px;
+    }
+    .submitfooter {
+        justify-content: center;
+    }
+    ul.social {
+        justify-content: space-evenly;
+    }
+    ul.social li a {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+    span.radius2 {
+        right: 19px !important;
+        left: auto;
+        bottom: -36px;
+    }
+}
